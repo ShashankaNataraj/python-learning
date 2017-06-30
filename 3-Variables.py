@@ -22,3 +22,14 @@ print "multiline?" # , produces stuff in same line
 
 print "Hello"
 print "multiline" # each print statement induces a \n
+
+print "%u" % -10.2
+
+print "%X" % 0xffff
+
+print 'I\'m here'
+
+print """ 
+Multi line
+crap
+"""

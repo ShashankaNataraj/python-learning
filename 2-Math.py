@@ -7,3 +7,5 @@ print 2-2 #expect 0
 
 print 10.5 + 3.9 #expect 14.4
 #Okay, basic math works exactly like it does in JS
+
+print "%u" % 10.5
